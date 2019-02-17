@@ -1,5 +1,5 @@
 EESchema Schematic File Version 4
-LIBS:Voyager87-cache
+LIBS:Voyager104-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
@@ -730,4 +730,12 @@ F 8 "AT90USB1286-AU" H 4525 4975 50  0001 L BNN "Field8"
 $EndComp
 Connection ~ 4000 2975
 Connection ~ 3725 3275
+Text GLabel 5125 5175 2    50   Input ~ 0
+COL17
+Text GLabel 5125 5075 2    50   Input ~ 0
+COL18
+Text GLabel 3925 5175 0    50   Input ~ 0
+COL19
+Text GLabel 3925 5075 0    50   Input ~ 0
+COL20
 $EndSCHEMATC
